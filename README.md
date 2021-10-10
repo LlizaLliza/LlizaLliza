@@ -1,2 +1,2 @@
 # 1stRepo
-Config files for my GitHub profile.
+:earth_asia: Config files for my GitHub profile.
