@@ -2,6 +2,9 @@
 
 ### Just a Game Enthusiast and want to become a Game developer/programmer :video_game:
 
-<!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=ukiaula&show_icons=true&hide=issues,contribs&theme=github_dark&custom_title=Github+Statistics&line_height=30) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukiaula&layout=compact&theme=github_dark&custom_title=Most+Used+Programming+Language)
-
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <a href="https://github.com/ukiaula">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ukiaula&theme=tokyonight&hide=issues&show_icons=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ukiaula&layout=compact&langs_count=4&theme=tokyonight"/>
+  </a>
+<div>
