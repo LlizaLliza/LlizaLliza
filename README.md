@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://github.com/ukiaula">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ukiaula&theme=tokyonight&hide=issues&show_icons=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ukiaula&layout=compact&langs_count=4&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ukiaula&theme=tokyonight&hide=issues&show_icons=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ukiaula&layout=compact&langs_count=4&theme=tokyonight"/>
   </a>
 <div>
