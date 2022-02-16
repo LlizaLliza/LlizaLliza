@@ -1,6 +1,6 @@
-# :earth_asia: Welcome to <s>Mobile Legends Ba...</s> My Profile  :clap:
+## :earth_asia: Welcome to My Profile  :clap:
 
-### Just a Game Enthusiast and want to become a Game developer/programmer :video_game:
+### Interested in games :video_game:
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
