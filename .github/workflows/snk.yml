@@ -2,8 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # jalan setiap hari
-  workflow_dispatch:      # agar bisa dijalankan manual
+    - cron: "0 0 * * *"  
+  workflow_dispatch:    
 
 jobs:
   build:
@@ -16,6 +16,8 @@ jobs:
           outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
+          color_snake: "#FFD700"
+          color_dots: "#FFE4B5,#EEE8AA,#FFD700,#FFA500,#FF8C00"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
