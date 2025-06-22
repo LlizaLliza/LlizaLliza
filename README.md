@@ -56,8 +56,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LlizaLliza&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=LlizaLliza&theme=tokyonight&title=Stars,Commits,Followers,Repositories,Experience&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://streak-stats.demolab.com?user=LlizaLliza&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <br>
+ <img src="https://github-profile-trophy.vercel.app/?username=LlizaLliza&theme=tokyonight&title=Stars,Commits,Followers,Repositories,Experience&margin-w=15&margin-h=15&column=5" />
+
 </div>
 
 ###
