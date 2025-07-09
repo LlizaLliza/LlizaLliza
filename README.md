@@ -27,13 +27,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# language logo" /><br>C#
   </td>
   <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 markup logo" /><br>HTML
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 style logo" /><br>CSS
+  </td>
+  <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /><br>JavaScript
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /><br>TypeScript
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" /><br>Tailwind
   </td>
 </tr>
 <tr>
@@ -41,44 +41,45 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" /><br>PHP
   </td>
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter logo" /><br>CodeIgniter
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL database logo" /><br>MySQL
   </td>
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL database logo" /><br>MySQL
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /><br>TypeScript
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter logo" /><br>CodeIgniter
   </td>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /><br>Bootstrap
   </td>
+  
+</tr>
+<tr>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /><br>Node.js
   </td>
-</tr>
-<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" /><br>Tailwind
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /><br>Laravel
+  </td>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git version control logo" /><br>Git
   </td>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub platform logo" /><br>GitHub
   </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio" /><br>Visual Studio
+  </td>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code editor logo" /><br>VS Code
   </td>
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 markup logo" /><br>HTML5
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 style logo" /><br>CSS3
-  </td>
-</tr>
-<tr>
-  <td align="center">
     <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js 3D library logo" /><br>Three.js
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=ethereum" height="40" alt="Ethereum logo for blockchain" /><br>Ethereum
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=web3" height="40" alt="Web3 development logo" /><br>Web3
   </td>
   <td align="center">
     <img src="https://img.icons8.com/ios-filled/50/000000/virtual-reality.png" height="40" alt="Virtual Reality (VR) logo" /><br>VR
@@ -86,6 +87,8 @@
   <td align="center">
     <img src="https://img.icons8.com/ios-filled/50/000000/augmented-reality.png" height="40" alt="Augmented Reality (AR) logo" /><br>AR
   </td>
+  
+  
 </tr>
 </table>
 
